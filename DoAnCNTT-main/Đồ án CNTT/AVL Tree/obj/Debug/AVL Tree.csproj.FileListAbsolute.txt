@@ -1,0 +1,68 @@
+C:\Users\ASUS\Downloads\Data-Structure-Visualization-master\AVLTree\AVL Tree\bin\Debug\AVL Tree.exe.config
+C:\Users\ASUS\Downloads\Data-Structure-Visualization-master\AVLTree\AVL Tree\bin\Debug\AVL Tree.exe
+C:\Users\ASUS\Downloads\Data-Structure-Visualization-master\AVLTree\AVL Tree\bin\Debug\AVL Tree.pdb
+C:\Users\ASUS\Downloads\Data-Structure-Visualization-master\AVLTree\AVL Tree\obj\Debug\AVL Tree.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\Data-Structure-Visualization-master\AVLTree\AVL Tree\obj\Debug\AVL_Tree.Form1.resources
+C:\Users\ASUS\Downloads\Data-Structure-Visualization-master\AVLTree\AVL Tree\obj\Debug\AVL_Tree.Properties.Resources.resources
+C:\Users\ASUS\Downloads\Data-Structure-Visualization-master\AVLTree\AVL Tree\obj\Debug\AVL Tree.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Data-Structure-Visualization-master\AVLTree\AVL Tree\obj\Debug\AVL Tree.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Data-Structure-Visualization-master\AVLTree\AVL Tree\obj\Debug\AVL Tree.exe
+C:\Users\ASUS\Downloads\Data-Structure-Visualization-master\AVLTree\AVL Tree\obj\Debug\AVL Tree.pdb
+C:\Users\ASUS\Downloads\AVL tree\AVLTree\AVL Tree\bin\Debug\AVL Tree.exe.config
+C:\Users\ASUS\Downloads\AVL tree\AVLTree\AVL Tree\bin\Debug\AVL Tree.exe
+C:\Users\ASUS\Downloads\AVL tree\AVLTree\AVL Tree\bin\Debug\AVL Tree.pdb
+C:\Users\ASUS\Downloads\AVL tree\AVLTree\AVL Tree\obj\Debug\AVL Tree.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\AVL tree\AVLTree\AVL Tree\obj\Debug\AVL_Tree.Form1.resources
+C:\Users\ASUS\Downloads\AVL tree\AVLTree\AVL Tree\obj\Debug\AVL_Tree.Properties.Resources.resources
+C:\Users\ASUS\Downloads\AVL tree\AVLTree\AVL Tree\obj\Debug\AVL Tree.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\AVL tree\AVLTree\AVL Tree\obj\Debug\AVL Tree.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\AVL tree\AVLTree\AVL Tree\obj\Debug\AVL Tree.exe
+C:\Users\ASUS\Downloads\AVL tree\AVLTree\AVL Tree\obj\Debug\AVL Tree.pdb
+D:\SPKT\năm 3\HK 1\Đồ án CNTT\Các tuần\Week 8\DACNTT\AVLTree\AVL Tree\bin\Debug\AVL Tree.exe.config
+D:\SPKT\năm 3\HK 1\Đồ án CNTT\Các tuần\Week 8\DACNTT\AVLTree\AVL Tree\bin\Debug\AVL Tree.exe
+D:\SPKT\năm 3\HK 1\Đồ án CNTT\Các tuần\Week 8\DACNTT\AVLTree\AVL Tree\bin\Debug\AVL Tree.pdb
+D:\SPKT\năm 3\HK 1\Đồ án CNTT\Các tuần\Week 8\DACNTT\AVLTree\AVL Tree\obj\Debug\AVL Tree.csproj.AssemblyReference.cache
+D:\SPKT\năm 3\HK 1\Đồ án CNTT\Các tuần\Week 8\DACNTT\AVLTree\AVL Tree\obj\Debug\AVL_Tree.Form1.resources
+D:\SPKT\năm 3\HK 1\Đồ án CNTT\Các tuần\Week 8\DACNTT\AVLTree\AVL Tree\obj\Debug\DoAnCK_BinTree.mainform.resources
+D:\SPKT\năm 3\HK 1\Đồ án CNTT\Các tuần\Week 8\DACNTT\AVLTree\AVL Tree\obj\Debug\AVL_Tree.Properties.Resources.resources
+D:\SPKT\năm 3\HK 1\Đồ án CNTT\Các tuần\Week 8\DACNTT\AVLTree\AVL Tree\obj\Debug\AVL Tree.csproj.GenerateResource.cache
+D:\SPKT\năm 3\HK 1\Đồ án CNTT\Các tuần\Week 8\DACNTT\AVLTree\AVL Tree\obj\Debug\AVL Tree.csproj.CoreCompileInputs.cache
+D:\SPKT\năm 3\HK 1\Đồ án CNTT\Các tuần\Week 8\DACNTT\AVLTree\AVL Tree\obj\Debug\AVL Tree.exe
+D:\SPKT\năm 3\HK 1\Đồ án CNTT\Các tuần\Week 8\DACNTT\AVLTree\AVL Tree\obj\Debug\AVL Tree.pdb
+D:\SPKT\năm 3\HK 1\Đồ án CNTT\Các tuần\Week 8\DACNTT\AVLTree\AVL Tree\obj\Debug\DoAnCNTT_BST.Form2.resources
+D:\SPKT\năm 3\HK 1\Đồ án CNTT\AVLTree\AVL Tree\bin\Debug\AVL Tree.exe.config
+D:\SPKT\năm 3\HK 1\Đồ án CNTT\AVLTree\AVL Tree\bin\Debug\AVL Tree.exe
+D:\SPKT\năm 3\HK 1\Đồ án CNTT\AVLTree\AVL Tree\bin\Debug\AVL Tree.pdb
+D:\SPKT\năm 3\HK 1\Đồ án CNTT\AVLTree\AVL Tree\obj\Debug\AVL Tree.csproj.AssemblyReference.cache
+D:\SPKT\năm 3\HK 1\Đồ án CNTT\AVLTree\AVL Tree\obj\Debug\AVL_Tree.Form1.resources
+D:\SPKT\năm 3\HK 1\Đồ án CNTT\AVLTree\AVL Tree\obj\Debug\DoAnCNTT_BST.Form2.resources
+D:\SPKT\năm 3\HK 1\Đồ án CNTT\AVLTree\AVL Tree\obj\Debug\DoAnCK_BinTree.mainform.resources
+D:\SPKT\năm 3\HK 1\Đồ án CNTT\AVLTree\AVL Tree\obj\Debug\AVL_Tree.Properties.Resources.resources
+D:\SPKT\năm 3\HK 1\Đồ án CNTT\AVLTree\AVL Tree\obj\Debug\AVL Tree.csproj.GenerateResource.cache
+D:\SPKT\năm 3\HK 1\Đồ án CNTT\AVLTree\AVL Tree\obj\Debug\AVL Tree.csproj.CoreCompileInputs.cache
+D:\SPKT\năm 3\HK 1\Đồ án CNTT\AVLTree\AVL Tree\obj\Debug\AVL Tree.exe
+D:\SPKT\năm 3\HK 1\Đồ án CNTT\AVLTree\AVL Tree\obj\Debug\AVL Tree.pdb
+D:\AVLTree\AVL Tree\bin\Debug\AVL Tree.exe.config
+D:\AVLTree\AVL Tree\bin\Debug\AVL Tree.exe
+D:\AVLTree\AVL Tree\bin\Debug\AVL Tree.pdb
+D:\AVLTree\AVL Tree\obj\Debug\AVL Tree.csprojAssemblyReference.cache
+D:\AVLTree\AVL Tree\obj\Debug\AVL_Tree.Form1.resources
+D:\AVLTree\AVL Tree\obj\Debug\DoAnCNTT_BST.Form2.resources
+D:\AVLTree\AVL Tree\obj\Debug\DoAnCK_BinTree.mainform.resources
+D:\AVLTree\AVL Tree\obj\Debug\AVL_Tree.Properties.Resources.resources
+D:\AVLTree\AVL Tree\obj\Debug\AVL Tree.csproj.GenerateResource.cache
+D:\AVLTree\AVL Tree\obj\Debug\AVL Tree.csproj.CoreCompileInputs.cache
+D:\AVLTree\AVL Tree\obj\Debug\AVL Tree.exe
+D:\AVLTree\AVL Tree\obj\Debug\AVL Tree.pdb
+D:\AVLTree-main\AVL Tree\bin\Debug\AVL Tree.exe.config
+D:\AVLTree-main\AVL Tree\bin\Debug\AVL Tree.exe
+D:\AVLTree-main\AVL Tree\bin\Debug\AVL Tree.pdb
+D:\AVLTree-main\AVL Tree\obj\Debug\AVL Tree.csprojAssemblyReference.cache
+D:\AVLTree-main\AVL Tree\obj\Debug\AVL_Tree.Form1.resources
+D:\AVLTree-main\AVL Tree\obj\Debug\DoAnCNTT_BST.Form2.resources
+D:\AVLTree-main\AVL Tree\obj\Debug\DoAnCK_BinTree.mainform.resources
+D:\AVLTree-main\AVL Tree\obj\Debug\AVL_Tree.Properties.Resources.resources
+D:\AVLTree-main\AVL Tree\obj\Debug\AVL Tree.csproj.GenerateResource.cache
+D:\AVLTree-main\AVL Tree\obj\Debug\AVL Tree.csproj.CoreCompileInputs.cache
+D:\AVLTree-main\AVL Tree\obj\Debug\AVL Tree.exe
+D:\AVLTree-main\AVL Tree\obj\Debug\AVL Tree.pdb
