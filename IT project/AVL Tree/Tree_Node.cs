@@ -305,7 +305,7 @@ namespace DoAnCNTT_BST
 
             }
         }
-        public void PostOrderS(Tree_Node tree, Form2 form1, int delay) // duyệt giữa
+        public void PostOrderS(Tree_Node tree, Form2 form1, int delay)   // sau Duyệt
         {
             if (tree != null)
             {
@@ -317,7 +317,7 @@ namespace DoAnCNTT_BST
                 Thread.Sleep(delay);
             }
         }
-        public void InOrderS(Tree_Node tree, Form2 form1, int delay) // duyệt sau
+        public void InOrderS(Tree_Node tree, Form2 form1, int delay)  //duyệt giữa 
         {
             if (tree != null)
             {
